@@ -1,0 +1,23 @@
+[
+  {
+    "id": {
+      "scope": "bit-react.kingzez",
+      "name": "hooks/usetitle"
+    },
+    "head": "7bf8abfbc537bca847077bfff41e47d22202f6ba"
+  },
+  {
+    "id": {
+      "scope": "bit-react.kingzez",
+      "name": "ui/button"
+    },
+    "head": "e30c6c9a47773dafe3a9ce5dc1358cd56fdd18d0"
+  },
+  {
+    "id": {
+      "scope": "bit-react.kingzez",
+      "name": "ui/tag"
+    },
+    "head": "3eee06a69f645a300bc7bfbec51b72401737b283"
+  }
+]
